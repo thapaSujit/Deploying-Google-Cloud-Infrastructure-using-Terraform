@@ -28,3 +28,24 @@ This repository contains Terraform code to deploy resources on Google Cloud Plat
    ```bash
    git clone https://github.com/yourusername/terraform-gcp-infrastructure.git
    cd terraform-gcp-infrastructure
+   ```
+
+2. Initialize terraform
+    ```bash
+    terraform init
+    ```
+
+3. Run Terraform Plan
+    ```bash
+    terraform plan
+    ```
+
+4. Deploy infra
+    ```bash
+    terraform apply
+    ```
+
+5. Clean up reasources
+    ```bash
+    terraform destroy
+    ```
