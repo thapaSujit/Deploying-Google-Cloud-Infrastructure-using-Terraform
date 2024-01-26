@@ -26,8 +26,7 @@ This repository contains Terraform code to deploy resources on Google Cloud Plat
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/terraform-gcp-infrastructure.git
-   cd terraform-gcp-infrastructure
+   git clone https://github.com/thapaSujit/Deploying-Google-Cloud-Infrastructure-using-Terraform
    ```
 
 2. Initialize terraform
